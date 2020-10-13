@@ -1,0 +1,7 @@
+Solves the Multi Armed Problem, Users can define number of arms and we get the original probability distribution of the arms thus maximizing rewards.
+
+Sample Output
+
+Total Reward:  809.0
+Original Probabilities:  [0.8444218515250481, 0.7579544029403025, 0.420571580830845, 0.25891675029296335, 0.5112747213686085, 0.4049341374504143]
+Computed Probabilities:  [0.827807486631016, 0.7499999999999998, 0.2222222222222222, 0.5, 0.49999999999999994, 0.375]
