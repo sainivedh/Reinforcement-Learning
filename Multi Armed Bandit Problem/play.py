@@ -1,8 +1,8 @@
 import random
 import numpy as np
-from environments_sai import Environment
-from agents_sai import RandomAgent
-from agents_sai import ValueApproxAgent
+from environments import Environment
+from agents import RandomAgent
+from agents import ValueApproxAgent
 
 
 num_gen = 1000
